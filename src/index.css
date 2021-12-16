@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;400;700&display=swap');
+
+@layer components{
+    .ParrafoBlanco{
+        @apply text-white font-Karla text-xs
+        text-justify pt-2 lg:text-[14px] text-[9px];
+    }
+    .ParrafoDorado{
+        @apply font-Karla text-sm
+        text-left pt-2 italic text-doradoRV;
+    }
+    .ParrafoDorado2{
+        @apply font-Karla text-sm
+        text-center pt-2 italic text-doradoRV;
+    }
+}

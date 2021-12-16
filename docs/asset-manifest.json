@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.368d5a5e.css",
-    "main.js": "/static/js/main.f83ae383.js",
-    "static/media/background_logo.jpg": "/static/media/background_logo.b0119472ac87ac4109df.jpg",
-    "static/media/capitan-01.svg": "/static/media/capitan-01.49994b8e5ef7483ffb224436ff1ebbb6.svg",
-    "static/media/pub1.svg": "/static/media/pub1.e32f2344218b401cc2523d26fa364310.svg",
-    "static/media/pub2.svg": "/static/media/pub2.7083670675808f3bed3a69bace83616f.svg",
-    "static/media/portadafoto.svg": "/static/media/portadafoto.c47ce630d58e9f2ec622.svg",
-    "static/media/fotoCartaeditorial.svg": "/static/media/fotoCartaeditorial.60692c9a1183dee79ca6e3fb38a889f3.svg",
-    "static/media/contenido foto.svg": "/static/media/contenido foto.c28f9bf3db742c151debfcfadd3fb1a6.svg",
-    "index.html": "/index.html",
-    "main.368d5a5e.css.map": "/static/css/main.368d5a5e.css.map",
-    "main.f83ae383.js.map": "/static/js/main.f83ae383.js.map"
+    "main.css": "./static/css/main.368d5a5e.css",
+    "main.js": "./static/js/main.f83ae383.js",
+    "static/media/background_logo.jpg": "./static/media/background_logo.b0119472ac87ac4109df.jpg",
+    "static/media/capitan-01.svg": "./static/media/capitan-01.49994b8e5ef7483ffb224436ff1ebbb6.svg",
+    "static/media/pub1.svg": "./static/media/pub1.e32f2344218b401cc2523d26fa364310.svg",
+    "static/media/pub2.svg": "./static/media/pub2.7083670675808f3bed3a69bace83616f.svg",
+    "static/media/portadafoto.svg": "./static/media/portadafoto.c47ce630d58e9f2ec622.svg",
+    "static/media/fotoCartaeditorial.svg": "./static/media/fotoCartaeditorial.60692c9a1183dee79ca6e3fb38a889f3.svg",
+    "static/media/contenido foto.svg": "./static/media/contenido foto.c28f9bf3db742c151debfcfadd3fb1a6.svg",
+    "index.html": "./index.html",
+    "main.368d5a5e.css.map": "./static/css/main.368d5a5e.css.map",
+    "main.f83ae383.js.map": "./static/js/main.f83ae383.js.map"
   },
   "entrypoints": [
     "static/css/main.368d5a5e.css",

@@ -11,8 +11,8 @@ import {Page8} from './pages/Page8';
 ReactDOM.render(
   <div className='place-content-center '>
     <Button>
-      {/* <Page1/>
-      <Page2/>
+      <Page1/>
+      {/* <Page2/>
       <Page3/>
       <Page4/>
       <Page5/> */}

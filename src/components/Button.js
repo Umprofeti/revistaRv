@@ -19,7 +19,7 @@ const Button = ({value = 1, children}) =>{
     return(
         <>
             <div className='PáginasRevista lg:bg-fondoPag1 lg:bg-no-repeat lg:bg-cover mb-10'>
-                <div className='RevistaContent lg:w-[47vw] lg:m-auto bg-white lg:shadow-2xl lg:block'>
+                <div className='RevistaContent lg:w-[70vw] lg:m-auto bg-white lg:shadow-2xl lg:block'>
                     {currentPage}
                 </div>
             </div>

@@ -1,11 +1,12 @@
 import React from 'react';
 import {HeaderPag} from '../components/HeaderPag';
+import Portada from '../img/portadafinal.svg' 
 const Page1 = () => {
 
 
     return(
         <>
-            <HeaderPag></HeaderPag>
+           {/*  <HeaderPag></HeaderPag>
             <div className='ContentPag mt-1 bg-fondoPag2 bg-no-repeat w-screen h-full bg-contain grid grid-cols-2 
                             place-items-stretch lg:w-[48vw] xl:w-[50vw] xl:h-[61.5vw]'>
                 <div className='pl-6'>
@@ -48,8 +49,8 @@ const Page1 = () => {
                         <p className='font-Playfair text-doradoRV text-xs lg:text-[0.8rem] xl:text-[1.1rem] xl:mt-[0.8rem]'>ROSEMARY ACOSTA TAYLOR</p>
                     </div>
                 </div>
-            </div>
-
+            </div> */}
+            <img src={require('../img/portadafinal.svg').default} alt=''/>
         </>
     );
 

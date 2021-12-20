@@ -1,11 +1,12 @@
 import React from 'react';
-import FotoCap from '../img/capitan-01.svg';
 export const  Page8 = () =>{
 
     return (
 
         <>
-            <img src= {require('../img/capitan-01.svg').default} alt=''/>
+            <a href='https://instagram.com/roja_scollection?utm_medium=copy_link'>
+                <img src= {require('../img/ads3.svg').default} alt=''/>
+            </a>
         </>
 
     );

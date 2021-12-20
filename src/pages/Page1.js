@@ -50,7 +50,7 @@ const Page1 = () => {
                     </div>
                 </div>
             </div> */}
-            <img src={require('../img/portadafinal.svg').default} alt=''/>
+            <img src={require('../img/portada.svg').default} alt=''/>
         </>
     );
 

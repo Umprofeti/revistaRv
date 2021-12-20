@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const HeaderPag = () =>{
+export const HeaderPag = ({Title}) =>{
 
 
     return(
@@ -12,6 +12,9 @@ export const HeaderPag = () =>{
                 <div className='Edition border-t-2 border-b-2 border-black flex items-stretch place-content-between'>
                     <p className=' ml-5 text-sm font-Lato mt-1 mb-1'> Diciembre 2021</p>
                     <p className='mr-5 text-sm font-Lato mt-1 mb-1'>Primera edición</p>
+                </div>
+                <div className='border-b-7 border-black'>
+                    <h3 className='font-Playfair text-4xl font-bold mb-3 mt-1 text-center'>{Title}</h3>
                 </div>
         </div>
     );

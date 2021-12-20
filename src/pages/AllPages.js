@@ -35,6 +35,7 @@ export const AllPages= () =>{
             <div className='RevistaContent lg:w-[70vw] lg:m-auto bg-white lg:shadow-2xl lg:block'>
                 <Page1/>
                 <Page2/>
+                <Page30/>  
                 <Page3/>
                 <Page4/>
                 <Page5/>
@@ -62,7 +63,7 @@ export const AllPages= () =>{
                 <Page29/>
                 <Page28/>
                 <Page27/>  
-                <Page30/>  
+                
             </div>
         </div>
     );

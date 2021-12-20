@@ -7,7 +7,7 @@ export const Page16 = () =>{
     return(
         <>
             <HeaderPag Title= 'DIPLOMÁTICO' />
-            <img src={require('../img/16 Diego-vasquez-.svg').default}/>
+            <img  className='xl:h-[187vw]' src={require('../img/16 Diego-vasquez-.svg').default}/>
         </>
     );
 

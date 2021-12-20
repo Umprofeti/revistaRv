@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.1bbd0316.css",
-    "main.js": "./static/js/main.953efdd2.js",
+    "main.js": "./static/js/main.d94d88d1.js",
     "static/media/16 Diego-vasquez-.svg": "./static/media/16 Diego-vasquez-.6783e42ea41460fbc9881543a154fabc.svg",
     "static/media/Comp 1.gif": "./static/media/Comp 1.802dd84cf44293b73ebf.gif",
     "static/media/7carta-editorial.svg": "./static/media/7carta-editorial.be14bb5000214ac33a98975a92086a1e.svg",
@@ -17,8 +17,8 @@
     "static/media/ads8.svg": "./static/media/ads8.fcff370f9240b22a6a96d88d8d134102.svg",
     "static/media/ads9.svg": "./static/media/ads9.e8c172f9746cdd68eb266c9de90df712.svg",
     "static/media/9-5reglasdexito.svg": "./static/media/9-5reglasdexito.52f5956f870fde03ddba0046fb1ac364.svg",
-    "static/media/12 el-liderazgo-de-la-mujer-.svg": "./static/media/12 el-liderazgo-de-la-mujer-.ac318fc7aeef071eb29b17f3a447453b.svg",
     "static/media/22 MARLOPORTSELVIA.svg": "./static/media/22 MARLOPORTSELVIA.631aadd6ef821032086772611bcf41c3.svg",
+    "static/media/12 el-liderazgo-de-la-mujer-.svg": "./static/media/12 el-liderazgo-de-la-mujer-.bf900ca94b8c7f56d164540878480480.svg",
     "static/media/ad11.svg": "./static/media/ad11.855974ffdf3663ea544fe4ae404c508e.svg",
     "static/media/pub1.svg": "./static/media/pub1.e32f2344218b401cc2523d26fa364310.svg",
     "static/media/pub2.svg": "./static/media/pub2.7083670675808f3bed3a69bace83616f.svg",
@@ -37,10 +37,10 @@
     "index.html": "./index.html",
     "static/media/portadafinal.svg": "./static/media/portadafinal.670f44672a4d0f91b8faa6e76110e4ff.svg",
     "main.1bbd0316.css.map": "./static/css/main.1bbd0316.css.map",
-    "main.953efdd2.js.map": "./static/js/main.953efdd2.js.map"
+    "main.d94d88d1.js.map": "./static/js/main.d94d88d1.js.map"
   },
   "entrypoints": [
     "static/css/main.1bbd0316.css",
-    "static/js/main.953efdd2.js"
+    "static/js/main.d94d88d1.js"
   ]
 }

@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.ba9360c0.css",
-    "main.js": "./static/js/main.fa64aca8.js",
+    "main.js": "./static/js/main.d6c27ae1.js",
     "static/media/16 Diego-vasquez-.svg": "./static/media/16 Diego-vasquez-.6783e42ea41460fbc9881543a154fabc.svg",
+    "static/media/Comp 1.gif": "./static/media/Comp 1.802dd84cf44293b73ebf.gif",
+    "static/media/14kayra.svg": "./static/media/14kayra.65e17c89697f3b7148248fbce1bc79a8.svg",
+    "static/media/18  tinta de oroDebora.svg": "./static/media/18  tinta de oroDebora.8f7ef530cf82eff768b44820f2dea754.svg",
     "static/media/ads3.svg": "./static/media/ads3.e6c681e9d0350e7fd6c3581622e66ab8.svg",
     "static/media/background_logo.jpg": "./static/media/background_logo.fd0e4a575e9303204c66.jpg",
-    "static/media/capitan-01.svg": "./static/media/capitan-01.49994b8e5ef7483ffb224436ff1ebbb6.svg",
+    "static/media/capitan-01.svg": "./static/media/capitan-01.8dd4bf15367b1dbf1cf79223c9d5c48c.svg",
     "static/media/26TOBLERONE.svg": "./static/media/26TOBLERONE.c29ed9bb032f27bbb2589138e7eb8e97.svg",
-    "static/media/14kayra.svg": "./static/media/14kayra.ae0a5a30646ad0f366c48da8e4afd5c0.svg",
     "static/media/ad4.svg": "./static/media/ad4.149dab6412d28292012e1be0b86db9e1.svg",
     "static/media/Cápsula.svg": "./static/media/Cápsula.e630d31b8e9ad0e6297c7a20bb3ac3bc.svg",
     "static/media/28BODA.svg": "./static/media/28BODA.b496f3e17849a5fc34d0fdcf4b14ceeb.svg",
     "static/media/ads8.svg": "./static/media/ads8.fcff370f9240b22a6a96d88d8d134102.svg",
     "static/media/ads9.svg": "./static/media/ads9.e8c172f9746cdd68eb266c9de90df712.svg",
-    "static/media/9-5reglasdexito.svg": "./static/media/9-5reglasdexito.52f5956f870fde03ddba0046fb1ac364.svg",
     "static/media/7carta-editorial.svg": "./static/media/7carta-editorial.b008e0897a509a756674051671b8cbc5.svg",
     "static/media/12 el-liderazgo-de-la-mujer-.svg": "./static/media/12 el-liderazgo-de-la-mujer-.d2264076351fe376086ebc0399d1a295.svg",
-    "static/media/22 MARLOPORTSELVIA.svg": "./static/media/22 MARLOPORTSELVIA.737daf1dd660ed5b3edbff6314615a7d.svg",
+    "static/media/22 MARLOPORTSELVIA.svg": "./static/media/22 MARLOPORTSELVIA.5358f8f609599241bfefa82901a2d587.svg",
     "static/media/ad11.svg": "./static/media/ad11.855974ffdf3663ea544fe4ae404c508e.svg",
     "static/media/pub1.svg": "./static/media/pub1.e32f2344218b401cc2523d26fa364310.svg",
-    "static/media/18  tinta de oroDebora.svg": "./static/media/18  tinta de oroDebora.31975426938914ac3ca181c611f537fa.svg",
     "static/media/pub2.svg": "./static/media/pub2.7083670675808f3bed3a69bace83616f.svg",
     "static/media/ads10.svg": "./static/media/ads10.44c77a4284755414f9722bbd73b9a8a7.svg",
     "static/media/ads7.svg": "./static/media/ads7.99a7c7ef38aa8f3dc5cb43579c97dd9b.svg",
@@ -32,13 +32,14 @@
     "static/media/contenido foto.svg": "./static/media/contenido foto.ae262e3d7a04ed46980ffab14261c98e.svg",
     "static/media/2logoportada.svg": "./static/media/2logoportada.2e6087e1a680017f24aaa4ac9c6fafc1.svg",
     "static/media/logorv.svg": "./static/media/logorv.8ec03fe11315aae43d3a98e92aa1ac50.svg",
+    "static/media/9-5reglasdexito.svg": "./static/media/9-5reglasdexito.4d3d2c918a807c85f511266b8b84b19c.svg",
     "index.html": "./index.html",
     "static/media/portadafinal.svg": "./static/media/portadafinal.670f44672a4d0f91b8faa6e76110e4ff.svg",
     "main.ba9360c0.css.map": "./static/css/main.ba9360c0.css.map",
-    "main.fa64aca8.js.map": "./static/js/main.fa64aca8.js.map"
+    "main.d6c27ae1.js.map": "./static/js/main.d6c27ae1.js.map"
   },
   "entrypoints": [
     "static/css/main.ba9360c0.css",
-    "static/js/main.fa64aca8.js"
+    "static/js/main.d6c27ae1.js"
   ]
 }

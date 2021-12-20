@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.eae2f49c.css",
-    "main.js": "./static/js/main.c5d85d81.js",
+    "main.js": "./static/js/main.75bde8e5.js",
     "static/media/16 Diego-vasquez-.svg": "./static/media/16 Diego-vasquez-.6783e42ea41460fbc9881543a154fabc.svg",
     "static/media/Comp 1.gif": "./static/media/Comp 1.802dd84cf44293b73ebf.gif",
     "static/media/18  tinta de oroDebora.svg": "./static/media/18  tinta de oroDebora.d9c138a667215469cb778cac39c313ad.svg",
@@ -37,10 +37,10 @@
     "index.html": "./index.html",
     "static/media/portadafinal.svg": "./static/media/portadafinal.670f44672a4d0f91b8faa6e76110e4ff.svg",
     "main.eae2f49c.css.map": "./static/css/main.eae2f49c.css.map",
-    "main.c5d85d81.js.map": "./static/js/main.c5d85d81.js.map"
+    "main.75bde8e5.js.map": "./static/js/main.75bde8e5.js.map"
   },
   "entrypoints": [
     "static/css/main.eae2f49c.css",
-    "static/js/main.c5d85d81.js"
+    "static/js/main.75bde8e5.js"
   ]
 }

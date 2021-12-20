@@ -40,8 +40,8 @@ export const AllPages= () =>{
                 <Page3/>
                 <Page4/>
                 <Page5/>
-                <Page6/>
                 <Page7/>
+                <Page6/>
                 <Page8/>
                 <Page9/>
                 <Page10/>

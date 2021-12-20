@@ -52,6 +52,10 @@ export const Page6 = () =>{
             <p className='text-white text-2xl text-center font-karla mt-10 font-bold'>DISEÑO DE JOYERÍA</p>
             <p className='text-white text-xl text-center font-Karla'>Karen Cherigo</p>
           </div>
+          <div>
+            <p className='text-white text-2xl text-center font-karla mt-10 font-bold'>VESTIDOS DE LA PORTADA</p>
+            <p className='text-white text-xl text-center font-Karla'>Shine Alquiler de Vestidos</p>
+          </div>
           <div className='mb-[6rem]'>
             <p className='text-white text-2xl text-center font-karla mt-10 font-bold'>DEPARTAMENTO LEGAL</p>
             <p className='text-white text-xl text-center font-Karla'>Graciela Rodríguez</p>

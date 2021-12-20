@@ -29,6 +29,7 @@ import { Page27 } from './Page27';
 import { Page28 } from './Page28';
 import { Page29 } from './Page29';
 import { Page30 } from './Page30';
+import { Page31 } from './Page31';
 export const AllPages= () =>{
     return(
         <div className='PáginasRevista bg-black lg:bg-fondoPag1  sm:mb-10 place-content-center'>
@@ -61,6 +62,7 @@ export const AllPages= () =>{
                 <Page25/>
                 <Page26/>
                 <Page29/>
+                <Page31/>
                 <Page28/>
                 <Page27/>  
                 

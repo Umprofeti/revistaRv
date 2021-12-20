@@ -6,7 +6,7 @@ export const Page22 = () =>{
 
     return(
         <>
-            <HeaderPag Title='MARLOPORTS' />
+            <HeaderPag />
             <img src={require('../img/22 MARLOPORTSELVIA.svg').default}/>
         </>
     );

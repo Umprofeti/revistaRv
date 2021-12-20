@@ -5,7 +5,7 @@ export const Page7 = () => {
 
     return(
         <>
-            <HeaderPag Title='Carta Editorial'/>
+            <HeaderPag/>
             <img src={Editorial} alt=''/>
         </>
     );

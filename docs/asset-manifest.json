@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.eae2f49c.css",
-    "main.js": "./static/js/main.75bde8e5.js",
+    "main.css": "./static/css/main.1bbd0316.css",
+    "main.js": "./static/js/main.953efdd2.js",
     "static/media/16 Diego-vasquez-.svg": "./static/media/16 Diego-vasquez-.6783e42ea41460fbc9881543a154fabc.svg",
     "static/media/Comp 1.gif": "./static/media/Comp 1.802dd84cf44293b73ebf.gif",
+    "static/media/7carta-editorial.svg": "./static/media/7carta-editorial.be14bb5000214ac33a98975a92086a1e.svg",
+    "static/media/28BODA.svg": "./static/media/28BODA.fffabf7524cbeeafa1b4330f19cc79b4.svg",
     "static/media/18  tinta de oroDebora.svg": "./static/media/18  tinta de oroDebora.d9c138a667215469cb778cac39c313ad.svg",
     "static/media/14kayra.svg": "./static/media/14kayra.65e17c89697f3b7148248fbce1bc79a8.svg",
     "static/media/ads3.svg": "./static/media/ads3.e6c681e9d0350e7fd6c3581622e66ab8.svg",
     "static/media/background_logo.jpg": "./static/media/background_logo.fd0e4a575e9303204c66.jpg",
     "static/media/capitan-01.svg": "./static/media/capitan-01.8dd4bf15367b1dbf1cf79223c9d5c48c.svg",
     "static/media/26TOBLERONE.svg": "./static/media/26TOBLERONE.c29ed9bb032f27bbb2589138e7eb8e97.svg",
-    "static/media/ad4.svg": "./static/media/ad4.149dab6412d28292012e1be0b86db9e1.svg",
-    "static/media/Cápsula.svg": "./static/media/Cápsula.e630d31b8e9ad0e6297c7a20bb3ac3bc.svg",
-    "static/media/28BODA.svg": "./static/media/28BODA.b496f3e17849a5fc34d0fdcf4b14ceeb.svg",
+    "static/media/Cápsula.svg": "./static/media/Cápsula.4f5bca998ede2202b3b0b7d67ecf310c.svg",
+    "static/media/ad4.svg": "./static/media/ad4.d2eca4f525e1c91b2e8b52dca384998c.svg",
     "static/media/ads8.svg": "./static/media/ads8.fcff370f9240b22a6a96d88d8d134102.svg",
     "static/media/ads9.svg": "./static/media/ads9.e8c172f9746cdd68eb266c9de90df712.svg",
     "static/media/9-5reglasdexito.svg": "./static/media/9-5reglasdexito.52f5956f870fde03ddba0046fb1ac364.svg",
-    "static/media/7carta-editorial.svg": "./static/media/7carta-editorial.b008e0897a509a756674051671b8cbc5.svg",
     "static/media/12 el-liderazgo-de-la-mujer-.svg": "./static/media/12 el-liderazgo-de-la-mujer-.ac318fc7aeef071eb29b17f3a447453b.svg",
-    "static/media/22 MARLOPORTSELVIA.svg": "./static/media/22 MARLOPORTSELVIA.5358f8f609599241bfefa82901a2d587.svg",
+    "static/media/22 MARLOPORTSELVIA.svg": "./static/media/22 MARLOPORTSELVIA.631aadd6ef821032086772611bcf41c3.svg",
     "static/media/ad11.svg": "./static/media/ad11.855974ffdf3663ea544fe4ae404c508e.svg",
     "static/media/pub1.svg": "./static/media/pub1.e32f2344218b401cc2523d26fa364310.svg",
     "static/media/pub2.svg": "./static/media/pub2.7083670675808f3bed3a69bace83616f.svg",
@@ -30,17 +30,17 @@
     "static/media/ads13.svg": "./static/media/ads13.80d1f0134c51136f418c0b0b3d99e84c.svg",
     "static/media/24FIFITA.svg": "./static/media/24FIFITA.b2ae9322cbfbe9753808469ca4ebe58c.svg",
     "static/media/portadafoto.svg": "./static/media/portadafoto.c47ce630d58e9f2ec622.svg",
-    "static/media/ads5.svg": "./static/media/ads5.d01cd98a43e7c59225b02ffb6752bd23.svg",
+    "static/media/ads5.svg": "./static/media/ads5.40c930b157de311b4c33c3a6ffdb818a.svg",
     "static/media/contenido foto.svg": "./static/media/contenido foto.ae262e3d7a04ed46980ffab14261c98e.svg",
     "static/media/2logoportada.svg": "./static/media/2logoportada.2e6087e1a680017f24aaa4ac9c6fafc1.svg",
     "static/media/logorv.svg": "./static/media/logorv.8ec03fe11315aae43d3a98e92aa1ac50.svg",
     "index.html": "./index.html",
     "static/media/portadafinal.svg": "./static/media/portadafinal.670f44672a4d0f91b8faa6e76110e4ff.svg",
-    "main.eae2f49c.css.map": "./static/css/main.eae2f49c.css.map",
-    "main.75bde8e5.js.map": "./static/js/main.75bde8e5.js.map"
+    "main.1bbd0316.css.map": "./static/css/main.1bbd0316.css.map",
+    "main.953efdd2.js.map": "./static/js/main.953efdd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.eae2f49c.css",
-    "static/js/main.75bde8e5.js"
+    "static/css/main.1bbd0316.css",
+    "static/js/main.953efdd2.js"
   ]
 }

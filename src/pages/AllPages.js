@@ -32,8 +32,8 @@ import { Page30 } from './Page30';
 import { Page31 } from './Page31';
 export const AllPages= () =>{
     return(
-        <div className='PáginasRevista bg-black lg:bg-fondoPag1  sm:mb-10 place-content-center'>
-            <div className='RevistaContent lg:w-[70vw] lg:m-auto bg-white lg:shadow-2xl lg:block'>
+        <div className='PáginasRevista bg-black lg:bg-fondoPag1 lg:bg-contain  sm:mb-10 place-content-center'>
+            <div className='RevistaContent lg:w-[70vw] lg:m-auto bg-white lg:drop-shadow-2xl lg:block'>
                 <Page1/>
                 <Page2/>
                 <Page30/>  

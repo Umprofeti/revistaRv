@@ -28,7 +28,7 @@ export const Page4 = ()=>{
                     <Categories title='Gastronomía Corporativa' desc='Los comensales regresan a los restaurantes' author='Por: Fifita Bichili.'/>
                     <Categories title='Tendencia Latina'  desc='Hogares prefabricadas y sostenibles' author='Por: Proyecto Toblerone.'/>
                     <Categories title='Especial' desc='Retos de la educación pos-pandemia' author='Por: Orlando Allard.'/>
-                    <Categories title='Sociedad' author='' desc='Boda Lemos Chellew' />
+                    <Categories title='Sociedad' author='' desc='Boda Lemos & Chellew' />
                 </div>
                 <Footer/>
             </div>

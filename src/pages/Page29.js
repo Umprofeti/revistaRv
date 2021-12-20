@@ -6,7 +6,7 @@ export const Page29 = () =>{
 
     return(
         <>
-            <HeaderPag/>
+            <HeaderPag Title='ESPECIAL'/>
             <img src={require('../img/capitan-01.svg').default}/>
         </>
     );

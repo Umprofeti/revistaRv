@@ -5,8 +5,8 @@ export const Page17 = () => {
 
     return(
         <>
-            <a href='https://instagram.com/serendipiapanama?utm_medium=copy_link'>
-                <img src={ads7} alt=''/>
+            <a href='https://instagram.com/serendipiapanama?utm_medium=copy_link' target='_blank' rel='noreferrer'>
+                <img src={ads7} alt='Serendipia Panamá'/>
             </a>
         </>
     );

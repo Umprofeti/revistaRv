@@ -5,8 +5,8 @@ export const Page21 = () => {
 
     return(
         <>
-            <a href='https://www.instagram.com/brogerspot/'>
-                <img src={ads9} alt=''/>
+            <a href='https://www.instagram.com/brogerspot/' target='_blank' rel='noreferrer'>
+                <img src={ads9} alt='Brogerspot'/>
             </a>
         </>
     );

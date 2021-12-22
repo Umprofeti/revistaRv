@@ -5,8 +5,8 @@ export const Page19 = () => {
 
     return(
         <>
-            <a href="https://instagram.com/azimuthpma?utm_medium=copy_link">
-                <img src={ads8} alt='Anuncio 8'/>
+            <a href="https://instagram.com/azimuthpma?utm_medium=copy_link" target='_blank' rel='noreferrer'>
+                <img src={ads8} alt='Azimuthpma'/>
             </a>
         </>
     );

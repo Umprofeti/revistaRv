@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.1bbd0316.css",
-    "main.js": "./static/js/main.fa2b0490.js",
-    "static/media/16 Diego-vasquez-.svg": "./static/media/16 Diego-vasquez-.6783e42ea41460fbc9881543a154fabc.svg",
+    "main.js": "./static/js/main.51a1df8c.js",
+    "static/media/14kayra.svg": "./static/media/14kayra.142ea789279a604ce34bf9ae1dacde71.svg",
+    "static/media/16 Diego-vasquez-.svg": "./static/media/16 Diego-vasquez-.87cab57b146d105d8fcfc424e8427ff6.svg",
     "static/media/Comp 1.gif": "./static/media/Comp 1.802dd84cf44293b73ebf.gif",
     "static/media/7carta-editorial.svg": "./static/media/7carta-editorial.be14bb5000214ac33a98975a92086a1e.svg",
     "static/media/28BODA.svg": "./static/media/28BODA.fffabf7524cbeeafa1b4330f19cc79b4.svg",
     "static/media/18  tinta de oroDebora.svg": "./static/media/18  tinta de oroDebora.d9c138a667215469cb778cac39c313ad.svg",
-    "static/media/14kayra.svg": "./static/media/14kayra.65e17c89697f3b7148248fbce1bc79a8.svg",
     "static/media/ads3.svg": "./static/media/ads3.e6c681e9d0350e7fd6c3581622e66ab8.svg",
     "static/media/background_logo.jpg": "./static/media/background_logo.fd0e4a575e9303204c66.jpg",
     "static/media/capitan-01.svg": "./static/media/capitan-01.8dd4bf15367b1dbf1cf79223c9d5c48c.svg",
     "static/media/26TOBLERONE.svg": "./static/media/26TOBLERONE.c29ed9bb032f27bbb2589138e7eb8e97.svg",
-    "static/media/Cápsula.svg": "./static/media/Cápsula.4f5bca998ede2202b3b0b7d67ecf310c.svg",
+    "static/media/Cápsula.svg": "./static/media/Cápsula.a71aa22d88e94e4a03f2f1d971975d3c.svg",
     "static/media/ad4.svg": "./static/media/ad4.d2eca4f525e1c91b2e8b52dca384998c.svg",
     "static/media/ads8.svg": "./static/media/ads8.fcff370f9240b22a6a96d88d8d134102.svg",
     "static/media/ads9.svg": "./static/media/ads9.e8c172f9746cdd68eb266c9de90df712.svg",
@@ -37,10 +37,10 @@
     "index.html": "./index.html",
     "static/media/portadafinal.svg": "./static/media/portadafinal.670f44672a4d0f91b8faa6e76110e4ff.svg",
     "main.1bbd0316.css.map": "./static/css/main.1bbd0316.css.map",
-    "main.fa2b0490.js.map": "./static/js/main.fa2b0490.js.map"
+    "main.51a1df8c.js.map": "./static/js/main.51a1df8c.js.map"
   },
   "entrypoints": [
     "static/css/main.1bbd0316.css",
-    "static/js/main.fa2b0490.js"
+    "static/js/main.51a1df8c.js"
   ]
 }

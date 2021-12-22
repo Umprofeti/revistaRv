@@ -16,7 +16,7 @@ export const Page4 = ()=>{
                     <div className='ml-1 grid grid-row overflow-scroll xl:overflow-hidden overscroll-contain'>
                         <Categories title='Carta Editorial' desc='' author='Por: Jeyson González.'/>
                         <Categories title='Portada Empresarial' desc='' author='Por: Marisela Moreno.'/>
-                        <Categories title='Empresarios Categoría A' desc='Liderazgo de la mujer en los negocios digitales.' author='Por: Rosmary Taylor.'/>
+                        <Categories title='Empresarios Categoría A' desc='Liderazgo de la mujer en los negocios digitales.' author='Por: Rose Acosta Taylor.'/>
                         <Categories title='Escritorio Para Mentes Poderosas' desc='Panamá y sus efectivos resultados contra la pandemia de la covid-19.' author='Por: Kayra Hardy.'/>
                         <Categories title='Diplomático' desc='La visión de un joven político.' author='Por: Juan Diego Vásquez.'/>
                         <Categories title='Tinta de Oro' desc='Liderazgo Femenino empresarial: Clave para la sostenibilidad de los países.' author='Por: Débora Valera.' />

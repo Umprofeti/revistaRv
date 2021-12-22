@@ -5,8 +5,8 @@ export const Page23 = () => {
 
     return(
         <>
-            <a href='https://www.instagram.com/xms.latam/'>
-                <img src={ads10} alt=''/>
+            <a href='https://www.instagram.com/xms.latam/' target='_blank' rel='noreferrer'>
+                <img src={ads10} alt='XMS Latam'/>
             </a>
         </>
     );

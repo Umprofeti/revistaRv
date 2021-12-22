@@ -5,8 +5,8 @@ export const Page11 = () => {
 
     return(
         <>
-            <a href='https://instagram.com/flowersartoaks?utm_medium=copy_link'>
-                <img src={ads4} alt=''/>
+            <a href='https://instagram.com/flowersartoaks?utm_medium=copy_link' target='_blank' rel='noreferrer'>
+                <img src={ads4} alt='Flowersartoaks'/>
             </a>
         </>
     );
